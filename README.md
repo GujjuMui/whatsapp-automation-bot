@@ -12,6 +12,10 @@ Screenshots of the real interface — the landing page and the dashboard. No cod
 
 ![Landing page](assets/landing-preview.png)
 
+The 3D chat in motion — the phone tilting with the mouse and the demo chat playing:
+
+![Landing page 3D interaction](assets/landing-interaction.gif)
+
 ### Dashboard
 
 ![Dashboard](assets/dashboard-preview.png)
