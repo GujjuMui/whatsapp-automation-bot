@@ -6,21 +6,11 @@ A WhatsApp automation bot for businesses that want every customer message answer
 
 ## Visuals
 
-Screenshots of the real interface — the landing page and the dashboard. No code is shown here, and no credentials or customer data are in these images.
-
-### Landing page
-
-![Landing page](assets/landing-preview.png)
-
-The 3D chat in motion — the phone tilting with the mouse and the demo chat playing:
+The 3D interactive chat on the landing page, in motion — the phone tilting with the mouse and the demo chat playing. No code is shown here, and no credentials or customer data are in this image.
 
 ![Landing page 3D interaction](assets/landing-interaction.gif)
 
-### Dashboard
-
-![Dashboard](assets/dashboard-preview.png)
-
-The landing page also has a 3D interactive chat: the phone floats and tilts with the mouse, and the demo chat plays inside it. See [`docs/interaction.md`](docs/interaction.md) for how that part works — the full page itself is not in this repository.
+See [`docs/interaction.md`](docs/interaction.md) for how that part works — the full page itself is not in this repository.
 
 ## What it does
 
