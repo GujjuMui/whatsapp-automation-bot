@@ -6,13 +6,17 @@ A WhatsApp automation bot for businesses that want every customer message answer
 
 ## Visuals
 
-Artwork taken from the real interface — the background doodle pattern and the chat mark used in the landing page and dashboard. The pattern is faint by design: it sits behind the glass cards on the near-black interface background.
+Screenshots of the real interface — the landing page and the dashboard. No code is shown here, and no credentials or customer data are in these images.
 
-![Background doodle pattern](assets/doodle-pattern.svg)
+### Landing page
 
-![Chat mark](assets/whatsapp-mark.svg)
+![Landing page](assets/landing-preview.png)
 
-Full-page screenshots of the landing page and dashboard are not included yet — they need to be captured from a running copy of the interface. The artwork above is the exact pattern and mark from that interface, not a redraw.
+### Dashboard
+
+![Dashboard](assets/dashboard-preview.png)
+
+The landing page also has a 3D interactive chat: the phone floats and tilts with the mouse, and the demo chat plays inside it. See [`docs/interaction.md`](docs/interaction.md) for how that part works — the full page itself is not in this repository.
 
 ## What it does
 
