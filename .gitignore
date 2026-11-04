@@ -1,0 +1,11 @@
+# This repository contains no runnable code.
+# It exists only to stop secrets and private files being added by accident.
+
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+auth_info_baileys/
+tickets.json
+*.log
